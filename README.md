@@ -52,7 +52,7 @@ If you want to apply a simple blur effect to your image, you can use this low-pa
 If you have any questions, suggestions, or just want to chat about FPGA and Image Processing, feel free to reach out!
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/abolfazl-soltani-50a846231/" target="_blank">
     Linkedin
   </a>
 </p>
