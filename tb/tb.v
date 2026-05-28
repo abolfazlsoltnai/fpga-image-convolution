@@ -36,8 +36,8 @@ module tb(
     #100;
     reset = 1;
     #100;
-    file = $fopen("Untitled_bw.bmp","rb");
-    file1 = $fopen("blurred_lena.bmp","wb");
+    file = $fopen("lena_gray.bmp","rb");
+     file1 = $fopen("blurred_img.bmp","wb");
     for(i=0;i<`headerSize;i=i+1)
     begin
         $fscanf(file,"%c",imgData);
